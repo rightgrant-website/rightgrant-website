@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Right Grant Ltd - Free Home Energy Grants</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav">
+            <div class="nav-brand">
+                <h2>Right Grant Ltd</h2>
+            </div>
+            <button class="mobile-menu-btn">☰</button>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="eco4.html">ECO4</a></li>
+                <li><a href="gbis.html">GBIS</a></li>
+                <li><a href="bus.html">BUS</a></li>
+                <li><a href="insulation.html">Insulation</a></li>
+                <li><a href="heating.html">Heating</a></li>
+                <li><a href="renewables.html">Renewables</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <div class="nav-cta">
+                <a href="contact.html" class="btn btn-primary">Get Started</a>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Transform Your Home with Government Grants</h1>
+                <p class="hero-subtitle">Free insulation, heating upgrades, and renewable energy solutions through ECO4, GBIS, and BUS schemes</p>
+                <div class="hero-buttons">
+                    <a href="contact.html" class="btn btn-large">Check Your Eligibility</a>
+                    <a href="tel:02071234567" class="btn btn-large btn-secondary">Call: 020 7123 4567</a>
+                </div>
+                <div class="hero-features">
+                    <div class="feature">
+                        <span class="feature-icon">✓</span>
+                        <span>100% Free for Eligible Households</span>
+                    </div>
+                    <div class="feature">
+                        <span class="feature-icon">✓</span>
+                        <span>Professional Installation</span>
+                    </div>
+                    <div class="feature">
+                        <span class="feature-icon">✓</span>
+                        <span>UK-Wide Service</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section class="services section-padding">
+        <div class="container">
+            <h2 class="section-title">Our Services</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-icon">🏠</div>
+                    <h3>Home Insulation</h3>
+                    <p>Free loft insulation, cavity wall insulation, and solid wall insulation to keep your home warm and reduce energy bills</p>
+                    <a href="insulation.html" class="btn-link">Learn More →</a>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🔥</div>
+                    <h3>Heating Upgrades</h3>
+                    <p>New energy-efficient boilers, heating systems, and smart heating controls installed by certified professionals</p>
+                    <a href="heating.html" class="btn-link">Learn More →</a>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">☀️</div>
+                    <h3>Renewable Energy</h3>
+                    <p>Air source heat pumps, solar panels, and other renewable technologies for sustainable home heating</p>
+                    <a href="renewables.html" class="btn-link">Learn More →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Grants Section -->
+    <section class="grants section-padding bg-light">
+        <div class="container">
+            <h2 class="section-title">Government Grant Schemes</h2>
+            <div class="grants-grid">
+                <div class="grant-card">
+                    <h3>ECO4 Scheme</h3>
+                    <p>Energy Company Obligation scheme for low-income and vulnerable households</p>
+                    <ul>
+                        <li>Free insulation measures</li>
+                        <li>Heating system upgrades</li>
+                        <li>For benefit recipients</li>
+                        <li>Low-income households</li>
+                    </ul>
+                    <a href="eco4.html" class="btn btn-primary">Learn More</a>
+                </div>
+                <div class="grant-card">
+                    <h3>GBIS</h3>
+                    <p>Great British Insulation Scheme for all households</p>
+                    <ul>
+                        <li>Free or subsidized insulation</li>
+                        <li>Available to more households</li>
+                        <li>Simpler eligibility criteria</li>
+                        <li>Wider property eligibility</li>
+                    </ul>
+                    <a href="gbis.html" class="btn btn-primary">Learn More</a>
+                </div>
+                <div class="grant-card">
+                    <h3>BUS</h3>
+                    <p>Boiler Upgrade Scheme for renewable heating</p>
+                    <ul>
+                        <li>Air source heat pumps</li>
+                        <li>Biomass boilers</li>
+                        <li>Ground source heat pumps</li>
+                        <li>£7,500 grants available</li>
+                    </ul>
+                    <a href="bus.html" class="btn btn-primary">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works -->
+    <section class="process section-padding">
+        <div class="container">
+            <h2 class="section-title">How It Works</h2>
+            <div class="process-steps">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <h3>Contact Us</h3>
+                    <p>Get in touch for a free eligibility assessment over the phone</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <h3>Home Assessment</h3>
+                    <p>Our experts assess your property and recommend suitable measures</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <h3>Professional Installation</h3>
+                    <p>Qualified installers implement the improvements at no cost to you</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Start Saving on Your Energy Bills Today</h2>
+                <p>Contact us to see if you qualify for free home improvements through government grants</p>
+                <div class="cta-buttons">
+                    <a href="contact.html" class="btn btn-large">Check Eligibility</a>
+                    <a href="tel:02071234567" class="btn btn-large btn-secondary">Call Now</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Right Grant Ltd</h3>
+                    <p>Helping UK households access free energy efficiency improvements through government grants.</p>
+                    <div class="contact-info">
+                        <p>📧 info@rightgrant.co.uk</p>
+                        <p>📞 020 7123 4567</p>
+                        <p>📍 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ</p>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="eco4.html">ECO4 Scheme</a></li>
+                        <li><a href="gbis.html">GBIS Scheme</a></li>
+                        <li><a href="bus.html">BUS Scheme</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Services</h4>
+                    <ul>
+                        <li><a href="insulation.html">Insulation</a></li>
+                        <li><a href="heating.html">Heating</a></li>
+                        <li><a href="renewables.html">Renewables</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Business Hours</h4>
+                    <ul>
+                        <li>Monday - Friday: 9am - 6pm</li>
+                        <li>Saturday: 10am - 4pm</li>
+                        <li>Sunday: Closed</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Right Grant Ltd. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

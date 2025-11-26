@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Right Grant Ltd</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <div class="nav-brand">
+                <h2>Right Grant Ltd</h2>
+            </div>
+            <button class="mobile-menu-btn">☰</button>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="eco4.html">ECO4</a></li>
+                <li><a href="gbis.html">GBIS</a></li>
+                <li><a href="bus.html">BUS</a></li>
+                <li><a href="insulation.html">Insulation</a></li>
+                <li><a href="heating.html">Heating</a></li>
+                <li><a href="renewables.html">Renewables</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+            <div class="nav-cta">
+                <a href="contact.html" class="btn btn-primary">Get Started</a>
+            </div>
+        </nav>
+    </header>
+
+    <section class="section-padding">
+        <div class="container">
+            <div class="contact-header">
+                <h1>Contact Right Grant Ltd</h1>
+                <p>Get in touch to check your eligibility for free home energy improvements</p>
+            </div>
+            
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <h2>Get Your Free Assessment</h2>
+                    <div class="contact-method">
+                        <h3>📞 Call Us</h3>
+                        <p>Speak directly with our energy advisors</p>
+                        <a href="tel:02071234567" class="contact-link">020 7123 4567</a>
+                    </div>
+                    
+                    <div class="contact-method">
+                        <h3>📧 Email Us</h3>
+                        <p>Send us your details for a callback</p>
+                        <a href="mailto:info@rightgrant.co.uk" class="contact-link">info@rightgrant.co.uk</a>
+                    </div>
+                    
+                    <div class="contact-method">
+                        <h3>📍 Visit Us</h3>
+                        <p>71-75 Shelton Street, Covent Garden, London, WC2H 9JQ</p>
+                    </div>
+                    
+                    <div class="business-hours">
+                        <h3>Business Hours</h3>
+                        <p>Monday - Friday: 9am - 6pm</p>
+                        <p>Saturday: 10am - 4pm</p>
+                        <p>Sunday: Closed</p>
+                    </div>
+                </div>
+                
+                <div class="contact-form-simple">
+                    <h3>Quick Contact Form</h3>
+                    <p>We'll contact you to discuss your eligibility</p>
+                    
+                    <!-- Simple form that can be replaced with third-party service -->
+                    <form class="simple-form">
+                        <div class="form-group">
+                            <label class="form-label" for="name">Full Name *</label>
+                            <input type="text" class="form-input" id="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" for="email">Email Address *</label>
+                            <input type="email" class="form-input" id="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" for="phone">Phone Number *</label>
+                            <input type="tel" class="form-input" id="phone" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" for="postcode">Postcode *</label>
+                            <input type="text" class="form-input" id="postcode" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-full">Request Callback</button>
+                        <p class="form-note">We'll call you to discuss your eligibility and next steps</p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Right Grant Ltd</h3>
+                    <p>Helping UK households access free energy efficiency improvements through government grants.</p>
+                    <div class="contact-info">
+                        <p>📧 info@rightgrant.co.uk</p>
+                        <p>📞 020 7123 4567</p>
+                        <p>📍 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ</p>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="eco4.html">ECO4 Scheme</a></li>
+                        <li><a href="gbis.html">GBIS Scheme</a></li>
+                        <li><a href="bus.html">BUS Scheme</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Services</h4>
+                    <ul>
+                        <li><a href="insulation.html">Insulation</a></li>
+                        <li><a href="heating.html">Heating</a></li>
+                        <li><a href="renewables.html">Renewables</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Right Grant Ltd. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
